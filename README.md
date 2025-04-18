@@ -12,8 +12,7 @@ This GitHub is organized to reflect my learning process and growth. Each project
 
 - Studying Rust through *The Rust Programming Language* and other books, courses, practical exercises and real projects
 - Studying JavaScript to broaden my foundations in programming and web development
-- Practicing backend logic and systems-level thinking through guided projects  
-- Organizing my learning environment and code in a way that supports long-term retention and clarity
+- Practicing backend logic and systems-level thinking through guided projects 
 - Studying foundational math topics to support long-term understanding of computer science 
 
 ---
